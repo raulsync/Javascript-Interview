@@ -1,1 +1,1 @@
-# I practise Javscript Interview Question that asked in Interview
+# I practise Javscript Question that asked in Interview
