@@ -51,3 +51,5 @@ console.log(arr1);
 const arr = [1, 5, 7, 9, 3, 11];
 
 console.log(Math.max.apply(null, arr)); //here we provide null bcs there is no any context
+
+//Pollyfill for call Method

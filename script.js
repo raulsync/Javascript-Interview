@@ -196,3 +196,15 @@ const fruitsFilter = fruits.filter((fru) => {
 });
 
 console.log(fruitsFilter);
+
+function a() {
+  var b = 10;
+  console.log(b);
+}
+// console.log(b);
+
+for (let i = 0; i < 10; i++) {
+  console.log(i);
+}
+
+// console.log(i);
